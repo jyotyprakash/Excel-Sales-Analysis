@@ -1,7 +1,7 @@
 ### **Excel Sales and Analysis**
 This project focuses on analyzing sales and financial data of AtliQ Hardwear using Excel. It provides insights into customer performance, market performance, and financial statements. The reports generated in this project aim to support decision-making processes and facilitate communication with stakeholders.
 
-**### Sales Report**
+### **Sales Report**
 
 **Customer Performance Report**
 This report analyzes customer behavior and performance. It provides insights into customer segmentation, purchasing patterns, and key performance indicators. You can find the report [here](https://github.com/jyotyprakash29/Excel-Sales-Analysis/blob/main/Customer_Performance_Report.pdf).
